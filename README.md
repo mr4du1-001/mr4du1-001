@@ -1,3 +1,2 @@
-<div class = "alert alert-box alert-info">
-  Hello everyone!
-</div>
+### Hi Everyone
+I am Mradul Sonkar, a second year undergraduate at IITB. 
